@@ -3,8 +3,9 @@
 Разработан в рамках обучения по программе "Python WEB разработчик" в Яндекс.Практикум
 
 В учебных целях создано две реализации с одиноковым функционалом:
-- function based view (этот репозиторий)
-- class based view (https://github.com/BolshakovAndrey/YaTube-ClassBasedViews)
+- class based view (этот репозиторий)
+- function based view ( https://github.com/BolshakovAndrey/hw05_final)
+
 
 Проект разработан на осоновании технического задания.
 
